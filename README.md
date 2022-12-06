@@ -1,4 +1,6 @@
 ### Hi there 👋
+🔭 I’m currently working on Federated Learning as Senior Research Fellow in Indian Institute of Technology Roorkee, Roorkee, India.
+🌱 I’m currently learning Model Optimization in Federated Learning scenario.
 
 <!--
 **gnnain/gnnain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
