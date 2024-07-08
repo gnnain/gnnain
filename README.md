@@ -1,7 +1,3 @@
-### Hi there 👋
-🔭 I’m currently working on Federated Learning as Senior Research Fellow in Indian Institute of Technology Roorkee, Roorkee, India.
-🌱 I’m currently learning Model Optimization in Federated Learning scenario.
-
 ## Hi there 👋
 
 I'm Gaurav Kumar, a Scientist at ISRO, Department of Space, and a Senior Research Fellow (SRF) at IIT Roorkee. I specialize in Federated Learning and Deep Neural Networks (DNN), and I'm passionate about advancing the frontiers of machine learning and space technology.
