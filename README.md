@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hello! I'm Gaurav Kumar
 
 Welcome to my GitHub!, I'm currently working as an AI/ML Scientist at the National Atmospheric Research Laboratory, Department of Space, and a Senior Research Fellow (SRF) at IIT Roorkee, pursuing a PhD. Exploring communication-efficient and privacy-preserving techniques in federated learning (FL). My research focuses on advancing Personalized-FL through hyperparameter optimization, adaptive clustering, and meta-learning strategies. I actively study model personalization across non-IID and geographically distributed data, aiming to improve performance in real-world decentralized environments.
 
