@@ -1,9 +1,8 @@
 ## 👋 Hello! I'm Gaurav Kumar
 
-Welcome to my GitHub!, I'm currently working as an AI/ML Scientist at the National Atmospheric Research Laboratory, Department of Space, and a Senior Research Fellow (SRF) at IIT Roorkee, pursuing a PhD. Exploring communication-efficient and privacy-preserving techniques in federated learning (FL). My research focuses on advancing Personalized-FL through hyperparameter optimization, adaptive clustering, and meta-learning strategies. I actively study model personalization across non-IID and geographically distributed data, aiming to improve performance in real-world decentralized environments.
+Welcome to my GitHub!, I'm currently working as an AI/ML Scientist at the National Atmospheric Research Laboratory, Department of Space, and a Senior Research Fellow (SRF) at IIT Roorkee, pursuing a PhD. I also worked at Sony Research India as an AI Research Intern and developed an innovative AI solution based on FL using voice samples to detect respiratory diseases such as Asthma and COPD. I am exploring communication-efficient and privacy-preserving techniques in federated learning (FL). My research focuses on advancing Personalized-FL through hyperparameter optimization, adaptive clustering, and meta-learning strategies. I actively study model personalization across non-IID and geographically distributed data, aiming to improve performance in real-world decentralized environments.
 
 ### 🔬 My Core Research Interests
-
 - ⚙️ **Communication-Efficient Federated Learning**
   - Reducing model update overhead with sparsification and quantization
   - Optimizing device-server communication under bandwidth and energy constraints
@@ -19,6 +18,7 @@ Welcome to my GitHub!, I'm currently working as an AI/ML Scientist at the Nation
 ### 📚 Major Publications
 - *FedNISP: Neuron Importance Scope Propagation pruning for communication efficient federated learning* - https://doi.org/10.1016/j.compeleceng.2024.109349
 - *Neuron specific pruning for communication efficient federated learning* - https://doi.org/10.1145/3511808.3557658
+- *Swarm Intelligence-based Partitioned Recovery in Wireless Sensor Networks* - https://doi.org/10.26636/jtit.2018.121817
 
 #### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -51,8 +51,12 @@ Welcome to my GitHub!, I'm currently working as an AI/ML Scientist at the Nation
 - ⚡ Fun fact: I'm equally fascinated by the mysteries of the cosmos and the intricacies of neural networks.
 
 ### 🏆 Achievements
+- Received ACM SIGIR and IIT Roorkee DORA travel grant to present paper in CIKM 2022.
+- Awarded UGC-NET Scholarship to support Ph. D. research work.
+- Awarded MHRD Govt. of India Fellowship to support M. Tech. dissertation work.
 - Contributed to significant projects at ISRO.
-- Published research papers in top ML and AI journals and conferences.
+- Selected to attend the Machine Learning Summer School (MLSSˆN) 2022 held in Kraków, Poland.
+- Participated in the Eastern European Machine Learning Summer School (EEML) 2022 held in Vilnius, Lithuania.
   
 <!--
 **gnnain/gnnain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
